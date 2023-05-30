@@ -1,0 +1,30 @@
+Top 5 high out degree nodes with their degrees
+Node-645 with 1801 outgoing edges
+Node-763 with 1669 outgoing edges
+Node-634 with 1621 outgoing edges
+Node-71399 with 1128 outgoing edges
+Node-3924 with 976 outgoing edges
+Top 5 high in degree nodes with their degrees
+Node-18 with 3035 incoming edges
+Node-143 with 1521 incoming edges
+Node-737 with 1317 incoming edges
+Node-790 with 1284 incoming edges
+Node-136 with 1180 incoming edges
+Top 5 page rank nodes with their values
+Node-18 with 345.13733694777454 page rank 
+Node-737 with 240.25396712965414 page rank 
+Node-118 with 162.0208569978614 page rank 
+Node-1719 with 158.853456075026 page rank 
+Node-136 with 151.6712231987729 page rank 
+Top 5 strongly connected nodes
+Node-0 with 32223 nodes
+Node-137438953803 with 15 nodes
+Node-60129542153 with 9 nodes
+Node-360777253180 with 9 nodes
+Node-317827580180 with 8 nodes
+Top 5 highest triangle count nodes
+Node-645 with 48674 triangles
+Node-18 with 47203 triangles
+Node-27 with 25817 triangles
+Node-634 with 25230 triangles
+Node-44 with 24752 triangles
