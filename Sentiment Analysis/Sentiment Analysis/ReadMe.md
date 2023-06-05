@@ -55,4 +55,4 @@ Logstash requires .conf file to specify the input and the outputs below :
 
 
 Run the python file using command : python3 SentimentAnalysis.py
-Arguments are configured in config.ini and is present in the same directory with "Twitter.py"  
+Arguments are configured in config.ini and is present in the same directory with "SentimentAnalysis.py"  
