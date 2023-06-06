@@ -26,10 +26,10 @@ class KafkaListener(StreamListener):
         return True
 
 
-API_consumer_key = "E09csWbvA02pwatuxqDAYHABk"
-API_consumer_secret = "ouchHC7Srd8N6oNBZbNhyIDpUsAm0cNN4s50NXLlSqvCVXGkDT"
-API_access_token = "1515463742468902922-XotACFybidHHtSwnOAdDsDYy1T1Azx"
-API_access_secret = "0rtVpif43x06wT6QWhZ70CjZHW3ltzinkqRdhouqKShIV"
+API_consumer_key = "dummykey"
+API_consumer_secret = "dummysecret"
+API_access_token = "dummyaccesstoken"
+API_access_secret = "dummyaccesssecret"
 
 
 
